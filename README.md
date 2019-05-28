@@ -10,3 +10,8 @@ I try to create a DataViz per day. The idea is to bring hidden wiki knowledge to
 - c8 The infinity sage's movies
 - c9 What is the best sell movie around the world from Marvels
 - c10 How many countries in the world do not allow dual nationality
+
+
+## LICENSE
+
+* This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) - [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
