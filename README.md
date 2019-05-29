@@ -10,6 +10,11 @@ I try to create a DataViz per day. The idea is to bring hidden wiki knowledge to
 - c8 The infinity sage's movies
 - c9 What is the best sell movie around the world from Marvels
 - c10 How many countries in the world do not allow dual nationality
+- C11 Birthday of the ones I care
+- C12 My astrology sign and its meaning
+- C13 Visualisation of my pets
+- C14 Visualisation of my plants
+
 
 
 ## LICENSE
