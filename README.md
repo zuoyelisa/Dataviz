@@ -15,6 +15,21 @@ I try to create a DataViz per day. The idea is to bring hidden wiki knowledge to
 - C13 Visualisation of my pets
 - C14 Visualisation of my plants
 - C15 Visualisation of the dormitories that I have lived
+- C16 - 18, 20, 25, 27 my trip in last 4 years
+- C19 Finnish and Chinese holiday
+- C21 tea that we had in tea club event
+- C22 Compare HK, China, Macau GDP per capital
+- C23 How fast do Finnish digital consultancies grow in 2019 according to Linkedin?
+- C24 Compare HK, China, Macau GDP
+- C28 Why Finland is the happiest country?
+- C29 Where are the highest mountains located?
+- C30 Where are the currently erupting volcanoes?
+- C31 Finnish VS Chinese passport
+- C32 How much data can 5G process per minute?
+- C33 When do people normally has their first marrige?
+- C34 What is the most green country that I have even been to?
+- C35 Divorce rate -- Finland VS China?
+- C36 Chinese earthquake over level 6 from 20 century till now
 
 
 ## LICENSE
