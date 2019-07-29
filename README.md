@@ -47,6 +47,12 @@ I try to create a DataViz per day. The idea is to bring hidden wiki knowledge to
 - c49 DC movies’s iMDb rank and its ticket box
 - c50 Ball games I play
 
+
+--------
+
+- C48 DC.csv contain data of DC movies (budgets, rank in iMDb, movie ticket box)
+- C48Marvel.csv contain data of Marvel movies (budgets, rank in iMDb, movie ticket box)
+
 ## LICENSE
 
 * This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) - [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
