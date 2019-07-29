@@ -30,7 +30,22 @@ I try to create a DataViz per day. The idea is to bring hidden wiki knowledge to
 - C34 What is the most green country that I have even been to?
 - C35 Divorce rate -- Finland VS China?
 - C36 Chinese earthquake over level 6 from 20 century till now
-
+- c37 World heritage site in China and what are them
+- c38 Commercial airline accident and their flight route from 2000 (arranged by year)
+- c38-1 The chance of surviving in an airline accident (arranged by year)
+- c39 Commercial airline accident and their flight route from 2000 (arranged by route)
+- c39-1 The chance of surviving in an airline accident (arranged by route)
+- c40 How many people been killed in the airline accident (arranged by route)
+- c41 creamy cocktail
+- c42 The metro lines of the cities I live(d)
+- c43 Summery of UXD healthcare conference in Amsterdam by word cloud
+- c44 What we are doing in summer cottage 12.7.2019
+- c45 healthcare redesign challenge
+- c46 People in which countries have higer salary
+- c47 Marvel movies’s iMDb rank and its ticket box
+- c48 Which movie earn the most money for Marvels
+- c49 DC movies’s iMDb rank and its ticket box
+- c50 Ball games I play
 
 ## LICENSE
 
