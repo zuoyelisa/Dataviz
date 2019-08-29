@@ -46,12 +46,20 @@ I try to create a DataViz per day. The idea is to bring hidden wiki knowledge to
 - c48 Which movie earn the most money for Marvels
 - c49 DC movies’s iMDb rank and its ticket box
 - c50 Ball games I play
-
-
+- c51 Gender pay gap in Europe 2017
+- c52 Famous musicals
+- C53 UX designer's salary
+- C54 Comparision between a finnish family and a chinese family
+- C55 The cities I have visited that I have lived for more than half year
+- C56 My trips 2012-2019 (by time)
+- C57 My trips 2012-2019 (by area)
+- C58 My trips 2012-2019 (by area2)
+- C59 Food Calories per 100g
 --------
 
 - C48 DC.csv contain data of DC movies (budgets, rank in iMDb, movie ticket box)
 - C48Marvel.csv contain data of Marvel movies (budgets, rank in iMDb, movie ticket box)
+- C52-UX designer's salary
 
 ## LICENSE
 
