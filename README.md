@@ -55,6 +55,8 @@ I try to create a DataViz per day. The idea is to bring hidden wiki knowledge to
 - C57 My trips 2012-2019 (by area)
 - C58 My trips 2012-2019 (by area2)
 - C59 Food Calories per 100g
+- C60 Architecture universities' major comparison
+- C61 Architecture universities' application time
 --------
 
 - C48 DC.csv contain data of DC movies (budgets, rank in iMDb, movie ticket box)
