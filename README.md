@@ -57,6 +57,7 @@ I try to create a DataViz per day. The idea is to bring hidden wiki knowledge to
 - C59 Food Calories per 100g
 - C60 Architecture universities' major comparison
 - C61 Architecture universities' application time
+- C62 Travel Plan
 --------
 
 - C48 DC.csv contain data of DC movies (budgets, rank in iMDb, movie ticket box)
